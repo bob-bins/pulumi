@@ -2,7 +2,9 @@ CHANGELOG
 =========
 
 ## HEAD (Unreleased)
-_(none)_
+
+- [chore] Updating Pulumi to use Go 1.16
+  [#6404](https://github.com/pulumi/pulumi/pull/6404)
 
 ## 2.21.2 (2021-02-22)
 
